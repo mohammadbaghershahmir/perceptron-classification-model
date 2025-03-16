@@ -23,7 +23,7 @@ This project is a minimal example of binary classification using the Perceptron 
    ```
 3. Run the script:
    ```
-   python Q-Two.py
+   python main.py
    ```
 
 ## 📈 Sample Output
