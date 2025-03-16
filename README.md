@@ -15,7 +15,7 @@ This project is a minimal example of binary classification using the Perceptron 
 ## ▶️ How to Run
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/perceptron-classification-model.git
+   git clone https://github.com/mohammadbaghershahmir/perceptron-classification-model.git
    ```
 2. Install dependencies:
    ```
